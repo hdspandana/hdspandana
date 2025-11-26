@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Spandana!<br><br>🎓 I'm a student passionate about DevOps, Cloud Computing, and Linux.  <br>I love exploring how technology can automate, optimize, and simplify complex systems.
+👋 Hi there, I'm Spandana<br><br>🎓 I'm a student passionate about DevOps, Cloud Computing, and Linux.  <br>I love exploring how technology can automate, optimize, and simplify complex systems.
 
 
 ## 🌐 Socials:
