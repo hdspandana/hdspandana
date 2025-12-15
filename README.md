@@ -35,4 +35,5 @@
 ---
 
 ## 👁️ Profile Views
-![Profile Views](https://visitcount.itsvg.in/api?id=hdspandana)
+![Profile Views](https://komarev.com/ghpvc/?username=hdspandana&label=Profile%20views)
+
