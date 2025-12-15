@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=hdspandana&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Hi there 👋
----
-[![](https://visitcount.itsvg.in/api?id=hdspandana&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=hdspandana)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
