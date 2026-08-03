@@ -32,10 +32,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Spandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdspandana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=hdspandana&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdspandana&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdspandana&show_icons=true&theme=dark)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hdspandana&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdspandana&layout=compact&theme=dark)
 ---
 
 ## 👁️ Profile Views
