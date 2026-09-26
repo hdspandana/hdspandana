@@ -1,45 +1,35 @@
-# 💫 Hi, I'm Spandana
+<div align="center">
 
-🎓 Student passionate about **DevOps, Cloud Computing, and Linux**  
-💻 I love exploring how technology can **automate, optimize, and simplify complex systems**  
-🌱 Currently learning **Linux, DSA, and DevOps tools step by step**
+# `SPANDANA.HD`
 
----
+### `CYBERSECURITY` · `NETWORKING` · `SYSTEMS` · `APPLIED ML`
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spandana-h-d-471727333)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1ms24cy022@msrit.edu)
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=building+security-focused+systems;learning+networks+from+the+packet+up;strengthening+C%2B%2B+%26+DSA;exploring+ML+for+real-world+problems"
+/>
 
----
+</div>
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<br>
 
----
+<div align="center">
 
-## 🚀 Currently Working On
-- Strengthening **DSA** using Java  
-- Learning **Linux & system fundamentals**  
-- Exploring **DevOps basics step by step**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdspandana&show_icons=true&theme=dark)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hdspandana&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdspandana&layout=compact&theme=dark)
----
-
-## 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=hdspandana&label=Profile%20views)
-
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  spandana@github:~$ whoami                                   │
+│                                                              │
+│  H.D. Spandana                                               │
+│  Computer Science (Cybersecurity) · 3rd Year                 │
+│                                                              │
+│  spandana@github:~$ systemctl status profile                 │
+│                                                              │
+│  ● cybersecurity     active                                  │
+│  ● networking        learning                                │
+│  ● linux             learning                                │
+│  ● c++ / dsa         building                                │
+│  ● applied ml        exploring                               │
+│                                                              │
+│  spandana@github:~$ _                                       │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
