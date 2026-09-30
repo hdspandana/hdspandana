@@ -33,5 +33,5 @@
 │  spandana@github:~$ _                                       │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
-[![Profile Views](https://komarev.com/ghpvc/?username=hdspandana&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/hdspandana)
+
 
